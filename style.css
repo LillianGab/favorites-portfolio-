@@ -16,10 +16,15 @@ h3 {
     font-family: 'Times New Roman', Times, serif
 }
 
+
 body {
     background-color: #b395bb ;
   }
   .module {
     float: left;
+  }
+
+p {
+    font-family: "Times New Roman", Times, serif;
   }
 
